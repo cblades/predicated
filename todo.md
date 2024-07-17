@@ -1,0 +1,2 @@
+[] or fns
+[] **invert** fn
